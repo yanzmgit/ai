@@ -31,14 +31,14 @@ keras
 
 ## future
 
-In the future, we can use meachine tech and deep tech to improve our task.   
-Always remerber They are ways, not the aims.  
+in the future, we can use meachine tech and deep tech to improve our task.   
+always remerber they are ways, not the aims.  
 
 
 ## why not other directions
 
-speech recognition、picture recognition、 natural language processing（NPL）、auto drive、robot control technology and so on.
-Those direction beyond my ability to understand ,to learn and to master it.
+speech recognition、picture recognition、 natural language processing(NPL)、auto drive、robot control technology and so on.
+those direction are beyond my ability to understand ,to learn and to master it.
 
 
 
