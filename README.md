@@ -1,18 +1,17 @@
 # ai
-My self study for AI tech。
+this project is about self study for AI tech.
 
-AI IS A VERY COMPLICATED complex.And it's hard for a beginner to touch its great power.
+AI IS A VERY COMPLICATED COMPLEX.
 
-
-By starting from one fanstatic thing of using it can make a difference ,and can get myself pumped about this technlogy.
-
-So  this resp only foucus on next topic ,algrothims and tools.
+and it's hard for a beginner to touch its great power.
+by starting from one fanstatic thing of using it can make a difference ,and can get myself pumped about this technlogy.
+so  this resp only foucus on next topic ,algrothims and tools.
 
 
 ## topic
 
 prediction
-  Human mankinds persue the predictiton ability since ancient times, this topic is intresting and exciting.And AI tech certaintly can support this  kind of dream.
+human mankinds persue the predictiton ability since ancient times, this topic is intresting and exciting.And AI tech certaintly can support this  kind of dream.
   
 ## algrothims
 
