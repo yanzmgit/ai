@@ -16,24 +16,24 @@ prediction
   
 ## algrothims
 
-linear regression
-regression tree
-nearest-neighbor
+linear regression  
+regression tree  
+nearest-neighbor  
 
 
 ## tools
 
-python
-facebook prophet
-tensorflow
-keras
+python  
+facebook prophet  
+tensorflow  
+keras  
 
 
 
 ## future
 
-In the future, we can use meachine tech and deep tech to improve our task.
-Always remerber They are ways, not the aims.
+In the future, we can use meachine tech and deep tech to improve our task.   
+Always remerber They are ways, not the aims.  
 
 
 ## why not other directions
