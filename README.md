@@ -33,6 +33,8 @@ keras
 
 in the future, we can use meachine tech and deep tech to improve our task.   
 always remerber they are ways, not the aims.  
+for instance, simple example like https://blog.csdn.net/Suyebiubiu/article/details/79978996   
+and we need to study the Andrew Ng's  course.
 
 
 ## why not other directions
