@@ -1,0 +1,18 @@
+面对分布式问题，所谓 多机并发、复制延迟、读写分离等等问题，常见的现有解决问题的软件有：zookeeper、etcd。
+其中 zookeeper 实现的是 ZAB协议，etcd 实现的是 RAFT协议。它们是有共同点的，都有 leader、follower、observer 的角色。
+只有这么复杂的角色，才能做到所谓的最终一致性。
+
+
+ZAB协议：https://www.jianshu.com/p/2bceacd60b8a
+raft协议:https://blog.csdn.net/Hanani_Jia/article/details/88800686  
+
+上面2种协议、以及2种开源软件是可以工业实际使用的。
+从理论上讲，都是基于 paxos 理论和算法的，针对的问题都是叫拜占庭问题。
+对于拜占庭问题，理论上的解法有2种：1种是基于leader等常规信息交换，还有一种是基于公钥的。如下拜占庭的2种解法:
+https://zhuanlan.zhihu.com/p/107439021
+这种又把区块链的技术绕进来了。
+
+对于单机的redis，由于作为第三方共同使用的内存块，可以实现简单分布式锁（本职跟内存上的锁差不多），如下：
+redis 分布式锁:https://blog.csdn.net/qq_35102066/article/details/103313479
+
+
