@@ -18,6 +18,7 @@ human mankinds persue the predictiton ability since ancient times, this topic is
 linear regression  
 regression tree  
 nearest-neighbor  
+算法入门【好】：https://github.com/yanzmgit/code
 
 
 ## tools
